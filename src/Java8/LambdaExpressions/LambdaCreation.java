@@ -1,4 +1,4 @@
-package Java8;
+package Java8.LambdaExpressions;
 
 interface HelloWorld{
     String sayHello(String name);
