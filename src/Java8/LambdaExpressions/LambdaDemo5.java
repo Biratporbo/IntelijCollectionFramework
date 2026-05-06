@@ -23,9 +23,7 @@ public class LambdaDemo5
 
         //let the functional interface reference to refer to the lambda expression
         //this lambda expression implements calculate(radius) method
-        Circle ref = (r) -> {
-            System.out.println("Area = " + Math.PI * r * r);
-        };
+        Circle ref = (r) -> System.out.println("Area = " + Math.PI * r * r);
 
         //call the method, pass radius and lambda expression as arguments
         obj.circleArea(ref);
