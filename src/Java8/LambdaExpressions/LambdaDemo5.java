@@ -11,9 +11,9 @@ public class LambdaDemo5
         void calculate(double radius);
     }
     //a method with functional interface reference ref as its argument
-    void circleArea(double radius, Circle ref)
+    void circleArea(Circle ref)
     {
-        ref.calculate(radius); //this will execute the lambda expression
+        ref.calculate(20); //this will execute the lambda expression
     }
 
     public static void main(String[] args)
@@ -28,6 +28,6 @@ public class LambdaDemo5
         };
 
         //call the method, pass radius and lambda expression as arguments
-        obj.circleArea(20, ref);
+        obj.circleArea(ref);
     }
 }
