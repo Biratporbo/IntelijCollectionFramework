@@ -7,14 +7,8 @@ public class LambdaDemo8
 {
     public static void main(String[] args) {
         //create thread object and pass the object of anonymous class
-        Thread t = new Thread(new Runnable()
-        {
-            //implement the run() of the Runnable class
-            public void run()
-            {
-                System.out.println("This is from anonymous inner class");
-            }
-        });
+        //implement the run() of the Runnable class
+        Thread t = new Thread(() -> System.out.println("This is from anonymous inner class"));
 
         //run the thread
         t.start();
