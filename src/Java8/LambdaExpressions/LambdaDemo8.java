@@ -1,5 +1,5 @@
 //a simple thread program -- version 3
-//in this version, we are using anonymous inner class
+//in this version, we are using lambda expression to Thread class object
 
 package Java8.LambdaExpressions;
 
