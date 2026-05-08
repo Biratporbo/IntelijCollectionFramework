@@ -1,6 +1,6 @@
 //Add working Swing button event handling example
 //Fix JFrame and ActionListener compilation issues
-//
+//Refactor LambdaDemo9 with proper ActionListener implementation
 
 package Java8.LambdaExpressions;
 
