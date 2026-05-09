@@ -40,5 +40,4 @@ public class LambdaDemo10
 }
 
 
-//OUTPUT -->
-// Same as in case of Program 10
+//OUTPUT --> Same as in case of Program 10
