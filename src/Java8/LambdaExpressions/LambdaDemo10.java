@@ -13,7 +13,7 @@ public class LambdaDemo10
         // Create a push button with label
         JButton but = new JButton("Click this button");
 
-        // Passing anonymous inner class to addActionListener()
+        // Passing anonymous inner class to addActionListener() method
         but.addActionListener(new ActionListener() {
 
             @Override
