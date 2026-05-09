@@ -38,3 +38,7 @@ public class LambdaDemo10
         f.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
     }
 }
+
+
+//OUTPUT -->
+// Same as in case of Program 10
