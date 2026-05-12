@@ -11,7 +11,8 @@ interface One
     }
 }
 
-interface Two {
+interface Two
+{
     default void message() {
         System.out.println("Hello from Two");
     }
