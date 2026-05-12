@@ -1,8 +1,8 @@
 //A program to understand how to refer to a particular default method when the same method is found in two interfaces.
-//two interfaces with same default method name
 
 package Java8.DefaultMethod;
 
+//two interfaces with same default method name
 interface One
 {
     default void message()
