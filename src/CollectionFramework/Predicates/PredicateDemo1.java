@@ -1,3 +1,5 @@
+//A program using predicate to know whether a given number is greater than 10 or not.
+
 package CollectionFramework.Predicates;
 
 import java.util.function.*;
