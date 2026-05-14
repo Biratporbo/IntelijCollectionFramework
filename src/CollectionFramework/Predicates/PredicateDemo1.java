@@ -4,7 +4,8 @@ import java.util.function.*;
 
 public class PredicateDemo1
 {
-    public static void main(String[] args) {
+    public static void main(String[] args)
+    {
         //Use Predicate reference to show the lambda expression
         Predicate<Integer> gt = (i) -> i > 10;
 
