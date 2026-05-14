@@ -1,3 +1,5 @@
+//A program to create a predicate that displays all numbers and even numbers from a group of given numbers.
+
 package CollectionFramework.Predicates;
 
 import java.util.function.Predicate;
