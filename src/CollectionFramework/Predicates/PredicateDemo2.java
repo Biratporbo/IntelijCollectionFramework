@@ -20,7 +20,8 @@ public class PredicateDemo2
 
     static void myMethod(Predicate<Integer> p, Integer []arr)
     {
-        for(Integer i: arr)
+        for(Integer i: arr) {
             if(p.test(i)) System.out.print(i + " ");
+        }
     }
 }
