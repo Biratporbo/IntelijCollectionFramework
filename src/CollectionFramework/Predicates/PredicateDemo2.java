@@ -1,3 +1,5 @@
+//A program to create a predicate and pass it to a method that displays numbers greater than 10
+
 package CollectionFramework.Predicates;
 
 import java.util.function.*;
