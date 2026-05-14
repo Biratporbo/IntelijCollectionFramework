@@ -15,7 +15,7 @@ public class PredicateDemo3
         Predicate<Integer> all, evens;
 
         //lambda expression to return true upon taking a number
-        all = (n) -> true;
+        all = (_) -> true;
 
         //lambda expression to return true if it is even number
         evens = (n) -> n%2==0;
