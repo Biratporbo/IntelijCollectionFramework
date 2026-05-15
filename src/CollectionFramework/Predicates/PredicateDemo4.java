@@ -2,6 +2,7 @@
 
 package CollectionFramework.Predicates;
 
+import java.util.function.*;
 import java.util.function.Predicate;
 
 public class PredicateDemo4
