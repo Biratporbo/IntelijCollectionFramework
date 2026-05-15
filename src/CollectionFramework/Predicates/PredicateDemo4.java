@@ -1,3 +1,5 @@
+//A program to understand how to join two predicates
+
 package CollectionFramework.Predicates;
 
 import java.util.function.Predicate;
