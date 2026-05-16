@@ -1,3 +1,5 @@
+//A program to create a Function that returns the length of a string.
+
 package CollectionFramework.Functions;
 
 import java.util.function.*;
