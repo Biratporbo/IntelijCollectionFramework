@@ -12,6 +12,7 @@ public class FunctionDemo1
             to find length of a string */
 
         Function<String, Integer> len = (str) -> str.length();
+        //str.length() --> String::length {Double colon operator(::) --> can be use
 
         //find the length of the string str
         String str = "One Nine";
