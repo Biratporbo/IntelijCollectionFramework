@@ -1,4 +1,5 @@
-//A program to understand how to use a double colon operator as a reference to the constructor of a class
+// A program to understand how to use a double colon operator
+//  as a reference to the constructor of a class
 
 package CollectionFramework.DColonOperator;
 
