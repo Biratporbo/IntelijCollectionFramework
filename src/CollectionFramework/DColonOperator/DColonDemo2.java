@@ -28,7 +28,7 @@ public class DColonDemo2
     public static void main(String[] args)
     {
         //this lambda expression returns Sample class object
-        MyInter mi = (String x) -> {return new Sample(x);};
+        MyInter mi = Sample::new;
         Sample s = mi.get("from lambda expression");
 
         //double colon operator refers to sample class constructor
