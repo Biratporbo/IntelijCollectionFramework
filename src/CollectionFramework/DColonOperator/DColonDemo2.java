@@ -15,6 +15,8 @@ class Sample
     }
 }
 
+
+
 //functional interface with get() method that returns Sample class object
 interface MyInter
 {
