@@ -1,3 +1,5 @@
+//To create a stream from ArrayList and collect the elements of a stream of the list using
+
 package StreamsAPI;
 
 import  java.util.*;
