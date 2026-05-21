@@ -12,7 +12,7 @@ public class Convert2
     public static void main(String[] args)
     {
         //create a list to store Integer objects
-        List<Integer> lst = new ArrayList<Integer>();
+        List<Integer> lst = new ArrayList<>();
 
         //add an elements to the list
         for(int i = 1; i < 10; i++)
