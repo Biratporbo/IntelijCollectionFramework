@@ -1,4 +1,5 @@
 //A program to retrieve the numbers from an ArrayList and convert the resultant stream into an array
+//to convert the element of a stream into an array
 
 package StreamsAPI;
 
