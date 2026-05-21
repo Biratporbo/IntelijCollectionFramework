@@ -1,4 +1,5 @@
-//To create a stream from ArrayList and collect the elements of a stream of the list using
+//A program to create a stream with the elements of an ArrayList
+// and get the elements which are greater than 5 into a new list
 
 package StreamsAPI;
 
