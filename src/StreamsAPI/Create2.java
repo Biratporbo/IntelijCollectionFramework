@@ -13,5 +13,6 @@ public class Create2
 
         //display the elements of the stream
         sm.forEach(System.out::println);
+        
     }
 }
