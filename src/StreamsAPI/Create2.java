@@ -9,7 +9,7 @@ public class Create2
     public static void main(String[] args)
     {
         //create the stream from random numbers
-        Stream<Double>sm = Stream.generate(() -> {return Math.random();});
+        Stream<Double>sm = Stream.generate(Math::random);
 
         //display the elements of the stream
         sm.forEach(System.out::println);
