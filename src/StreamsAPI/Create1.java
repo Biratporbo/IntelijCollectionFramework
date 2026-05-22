@@ -20,6 +20,6 @@ public class Create1
 
         //display the elements of the stream
         sm2.forEach(System.out::println);
-        
+
     }
 }
