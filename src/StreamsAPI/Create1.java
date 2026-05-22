@@ -1,3 +1,5 @@
+//A program to understand how to create streams of objects using the Stream.of() method
+
 package StreamsAPI;
 
 import java.util.stream.Stream;
