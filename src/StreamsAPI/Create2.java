@@ -1,4 +1,4 @@
-//A program to create a stream of objects using the Stream.generate() method test purposes
+/* A program to create a stream of objects using the Stream.generate() method test purposes */
 
 package StreamsAPI;
 
