@@ -15,7 +15,7 @@ public class Create1
         sm1.forEach(System.out::println);
 
         //create another stream of array of Float objects
-        Float arr[] = {1.1f, 2.2f, 3.3f, 4.4f};
+        Float[] arr = {1.1f, 2.2f, 3.3f, 4.4f};
         Stream<Float> sm2 = Stream.of(arr);
 
         //display the elements of the stream
