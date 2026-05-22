@@ -1,3 +1,5 @@
+//A program to create a stream of objects using the Stream.generate() method test purposes
+
 package StreamsAPI;
 
 import java.util.stream.Stream;
