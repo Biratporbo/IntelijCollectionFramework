@@ -11,9 +11,11 @@ public class Create2
     {
         //create the stream from random numbers
         Stream<Double>sm = Stream.generate(() -> {return Math.random();});
-        // or Stream<Double>sm = Stream. generate (Math: : random); <--- This can be used 
+        /*
+         or Stream<Double>sm = Stream. generate (Math: : random); <--- This can be used
+        display the elements of the stream
+        */
 
-        //display the elements of the stream
         sm.forEach(System.out::println);
 
     }
