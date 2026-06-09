@@ -205,11 +205,7 @@ javac -d . src/Java8/LambdaExpressions/LambdaDemo1.java
 java Java8.LambdaExpressions.LambdaDemo1
 ```
 
-**Running Streams API:**
-```bash
-javac -d . src/StreamsAPI/Create1.java
-java StreamsAPI.Create1
-```
+
 
 ---
 
