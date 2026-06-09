@@ -115,15 +115,15 @@ src/
 
 ## 🛣️ Module Overview
 
-| Module | Description |
-| :--- | :--- |
+| Module                    | Description                                                          |
+|:--------------------------|:---------------------------------------------------------------------|
 | **Collections Framework** | Complete implementation of List, Set, Map, and Queue data structures |
-| **Generics** | Generic classes, methods, and type parameter handling |
-| **Lambda Expressions** | 10+ practical examples of lambda syntax and usage |
-| **Streams API** | Data transformation, filtering, mapping, and reduction operations |
-| **Exception Handling** | Custom exceptions and error management strategies |
-| **Java 8+ Features** | Default methods, functional interfaces, and modern Java concepts |
-| **Arrays & Utilities** | Array manipulation and Collections utility methods |
+| **Generics**              | Generic classes, methods, and type parameter handling                |
+| **Lambda Expressions**    | 10+ practical examples of lambda syntax and usage                    |
+| **Streams API**           | Data transformation, filtering, mapping, and reduction operations    |
+| **Exception Handling**    | Custom exceptions and error management strategies                    |
+| **Java 8+ Features**      | Default methods, functional interfaces, and modern Java concepts     |
+| **Arrays & Utilities**    | Array manipulation and Collections utility methods                   |
 
 ---
 
