@@ -168,8 +168,25 @@ src/
 - **Exception Handling:** Custom exceptions and proper error management
 - **IDE:** IntelliJ IDEA (recommended)
 
----
 
+## 📚 Learning Topics Covered
+
+```
+✅ ArrayList, LinkedList, Vector
+✅ HashSet, LinkedHashSet, TreeSet
+✅ HashMap, LinkedHashMap, TreeMap
+✅ Queue, Deque, PriorityQueue
+✅ Generic Classes & Methods
+✅ Wildcards & Type Parameters
+✅ Lambda Expressions (Syntax & Usage)
+✅ Functional Interfaces
+✅ Streams API (Create, Transform, Collect)
+✅ Method References (::)
+✅ Predicates & Functions
+✅ Exception Handling & Custom Exceptions
+✅ String Tokenization
+✅ Set Operations (Union, Intersection, Difference)
+```
 
 
 ## 💡 Quick Start Examples
