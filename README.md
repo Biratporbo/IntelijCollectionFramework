@@ -13,7 +13,17 @@
 
 Intellij Collection Framework is a comprehensive Java project designed to help developers master the Collections Framework, advanced generics, lambda expressions, and streams API. The project provides practical examples and implementations of all major collection types, functional programming concepts, and modern Java 8+ features to streamline Java development skills.
 
+## ✨ Key Features & Architecture
 
+* **Collections Management:** Comprehensive implementation of Lists, Sets, Maps, and Queues with detailed examples.
+* **Generics Deep Dive:** Understand generic classes, methods, and type parameters with real-world implementations.
+* **Lambda Expressions:** Master functional programming with lambda expressions and method references.
+* **Streams API:** Learn powerful data transformation and filtering operations using streams.
+* **Exception Handling:** Explore custom exceptions and proper error handling techniques.
+* **Array Operations:** Advanced array manipulation and utility demonstrations.
+* **Predicates & Functional Interfaces:** Working with predicates, functions, and custom functional interfaces.
+
+---
 
 ## 🗂️ Project Structure
 
