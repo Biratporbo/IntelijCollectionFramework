@@ -223,17 +223,7 @@ This project is part of an educational portfolio and is provided as-is for learn
 
 ![](https://img.shields.io/badge/Use-Allowed-22c55e?style=for-the-badge&labelColor=020617) ![](https://img.shields.io/badge/Modify-Allowed-0ff?style=for-the-badge&labelColor=020617) ![](https://img.shields.io/badge/Distribute-Allowed-facc15?style=for-the-badge&labelColor=020617) ![](https://img.shields.io/badge/Learn-Encouraged-a855f7?style=for-the-badge&labelColor=020617)
 
----
 
-## ⚠️ Disclaimer
-
-```Diff
-- This software is provided "as is"
-- No warranty or liability is included
-- Use for educational purposes
-```
-
----
 
 ❤️ Created for Java Learning & Development
 
