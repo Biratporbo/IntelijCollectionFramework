@@ -225,5 +225,15 @@ This project is part of an educational portfolio and is provided as-is for learn
 
 
 
+## ⚠️ Disclaimer
+
+```Diff
+- This software is provided "as is"
+- No warranty or liability is included
+- Use for educational purposes
+```
+
+
+
 ❤️ Created for Java Learning & Development
 
