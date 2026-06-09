@@ -168,6 +168,7 @@ src/
 - **Exception Handling:** Custom exceptions and proper error management
 - **IDE:** IntelliJ IDEA (recommended)
 
+---
 
 ## 📚 Learning Topics Covered
 
@@ -188,6 +189,7 @@ src/
 ✅ Set Operations (Union, Intersection, Difference)
 ```
 
+---
 
 ## 💡 Quick Start Examples
 
