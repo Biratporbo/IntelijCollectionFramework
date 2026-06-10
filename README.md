@@ -235,7 +235,10 @@ This project is part of an educational portfolio and is provided as-is for learn
 
 ---
 
-❤️ Created for Java Learning & Development 
+<div align="left">
 
-🫱🫲 I, Me, and Myself !! 
+   ❤️ Created for Java Learning & Development 
 
+   🫱🫲 I, Me, and Myself !! 
+
+</div>
