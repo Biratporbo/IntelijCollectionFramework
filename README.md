@@ -98,10 +98,14 @@ src/
 │   └── work/
 │       └── StreamObject.java
 ├── Methods/                   # Basic Java method examples
-│   ├── Method.java
-│   ├── Method_2.java
-│   ├── Method_3.java
-│   └── Method_4.java
+│   ├── Method.java            # Method without params & return type
+│   ├── Method_2.java           # Method with return type
+│   ├── Method_3.java           # Method with params & return type
+│   ├── Method_4.java           # Static method
+│   ├── Method_5.java           # Static method accessing static variable
+│   ├── Method_6.java           # Instance variable behavior
+│   ├── Method_7.java           # Static (class) variable behavior
+│   └── Method_8.java           # Static block vs. static method
 ├── StreamsAPI/                # Streams API examples
 │   ├── Create1.java
 │   ├── Create2.java
@@ -124,7 +128,7 @@ src/
 | Module | Description |
 | :--- | :--- |
 | **Collections Framework** | Complete implementation of List, Set, Map, and Queue data structures |
-| **Methods** | Basic examples of methods without return values, with return values, and static methods |
+| **Methods** | Basic examples of methods, static methods, static blocks, and instance vs. class variables |
 | **Generics** | Generic classes, methods, and type parameter handling |
 | **Lambda Expressions** | 10+ practical examples of lambda syntax and usage |
 | **Streams API** | Data transformation, filtering, mapping, and reduction operations |
@@ -187,6 +191,8 @@ src/
 ✅ Basic Java Methods
 ✅ Methods with Parameters and Return Types
 ✅ Static Methods
+✅ Static Blocks & Execution Order
+✅ Instance vs. Class (Static) Variables
 ✅ Generic Classes & Methods
 ✅ Wildcards & Type Parameters
 ✅ Lambda Expressions (Syntax & Usage)
