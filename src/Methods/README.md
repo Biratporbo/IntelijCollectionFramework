@@ -25,6 +25,8 @@ A method is a block of code that performs a specific task. It helps make program
 - Method_6.java: Demonstrates that each object has its own copy of an instance variable.
 - Method_7.java: Demonstrates that a static (class) variable is shared by all objects of the class.
 - Method_8.java: Demonstrates which one is executed first by the JVM, the static block or the static method.
+- Method_9.java: Advanced method concepts and examples.
+- Method10.java: Additional practical method examples and use cases.
 
 ## Example summary
 
@@ -44,6 +46,8 @@ java -cp src Methods.Method_5
 java -cp src Methods.Method_6
 java -cp src Methods.Method_7
 java -cp src Methods.Method_8
+java -cp src Methods.Method_9
+java -cp src Methods.Method10
 ```
 
 ## Key takeaway
