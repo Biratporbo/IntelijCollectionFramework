@@ -98,17 +98,17 @@ src/
 │   └── work/
 │       └── StreamObject.java
 ├── Methods/                   # Basic Java method examples
-│   ├── Method.java
-│   ├── Method_2.java through Method10.java
-│   └── README.md
 │   ├── Method.java            # Method without params & return type
-│   ├── Method_2.java           # Method with return type
-│   ├── Method_3.java           # Method with params & return type
-│   ├── Method_4.java           # Static method
-│   ├── Method_5.java           # Static method accessing static variable
-│   ├── Method_6.java           # Instance variable behavior
-│   ├── Method_7.java           # Static (class) variable behavior
-│   └── Method_8.java           # Static block vs. static method
+│   ├── Method_2.java          # Method with return type
+│   ├── Method_3.java          # Method with params & return type
+│   ├── Method_4.java          # Static method
+│   ├── Method_5.java          # Static method accessing static variable
+│   ├── Method_6.java          # Instance variable behavior
+│   ├── Method_7.java          # Static (class) variable behavior
+│   ├── Method_8.java          # Static block vs. static method
+│   ├── Method_9.java          # Advanced method concepts
+│   ├── Method10.java          # Additional practical method examples
+│   └── README.md
 ├── StreamsAPI/                # Streams API examples
 │   ├── Create1.java
 │   ├── Create2.java
