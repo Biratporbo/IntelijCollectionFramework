@@ -26,5 +26,6 @@ public class Method_11
         Sample s = new Sample();
         s.modify(10);
         s.access();
+        
     }    
 }
