@@ -98,6 +98,9 @@ src/
 │   └── work/
 │       └── StreamObject.java
 ├── Methods/                   # Basic Java method examples
+│   ├── Method.java
+│   ├── Method_2.java through Method10.java
+│   └── README.md
 │   ├── Method.java            # Method without params & return type
 │   ├── Method_2.java           # Method with return type
 │   ├── Method_3.java           # Method with params & return type
