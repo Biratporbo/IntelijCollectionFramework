@@ -98,6 +98,132 @@ src/
 │   └── work/
 │       └── StreamObject.java
 ├── Methods/                   # Basic Java method examples
+│   ├── Method.java through Method_13.java
+│   └── [13 comprehensive examples of method concepts]
+├── Exception/                 # Exception handling
+│   ├── Ex.java
+│   ├── Ex1.java
+│   ├── Ex3.java
+│   ├── Exii.java
+│   ├── MarksException.java
+│   ├── MyException.java
+│   └── RethrowExcep.java
+└── StringTokenizerClass/      # String manipulation
+    └── STDemo.java
+```
+
+## 🚀 Getting Started
+
+### Prerequisites
+- Java 8 or higher
+- A Java IDE (IntelliJ IDEA, Eclipse, VS Code) or command-line compiler (javac)
+
+### Compilation & Execution
+
+**Compile all files:**
+```bash
+javac -d . src/**/*.java
+```
+
+**Run a specific example:**
+```bash
+java -cp src CollectionFramework.List.ArrayListCreate
+java -cp src Java8.LambdaExpressions.LambdaDemo1
+java -cp src Methods.Method_5
+```
+
+---
+
+## 📚 Topics Covered
+
+### Collections Framework
+- **Lists:** ArrayList, LinkedList, Stack, Vector
+- **Sets:** HashSet, LinkedHashSet, TreeSet
+- **Maps:** HashMap, LinkedHashMap, TreeMap
+- **Queues:** Queue, Deque, PriorityQueue
+- **Set Operations:** Union, Intersection, Difference
+
+### Java 8+ Features
+- Lambda Expressions (10+ examples)
+- Streams API (Create, Convert, Transform)
+- Functional Interfaces (Function, Predicate)
+- Method References (:: operator)
+- Default Methods in Interfaces
+
+### Core Java Concepts
+- Methods (13 comprehensive examples)
+- Generics (Classes, Methods, Multiple Type Parameters)
+- Exception Handling (Custom exceptions, try-catch, re-throwing)
+- Array Operations (Sorting, searching, utilities)
+- String Tokenization
+
+---
+
+## 📖 How to Use This Project
+
+1. **For Learning Collections:** Start with `CollectionFramework/` folder
+   - Begin with Lists → Sets → Maps → Queues
+   
+2. **For Learning Java 8+:** Explore `Java8/` folder
+   - Start with LambdaExpressions → StreamsAPI → FunctionalInterfaces
+   
+3. **For Learning Methods:** Study `Methods/` folder
+   - Method.java → Method_5.java → Method_13.java (progressive complexity)
+
+4. **For Exception Handling:** Review `Exception/` folder
+   - Understand custom exceptions and error handling
+
+---
+
+## 💡 Key Learning Outcomes
+
+✅ Master the Collections Framework with practical examples  
+✅ Understand generics and type safety in Java  
+✅ Write functional code using Lambda expressions and Streams  
+✅ Handle exceptions gracefully with custom exceptions  
+✅ Leverage modern Java 8+ features for cleaner code  
+✅ Practice method concepts from basics to advanced scenarios  
+
+---
+
+## 📝 Project Statistics
+
+- **Total Files:** 100+
+- **Total Classes:** 100+
+- **Topics:** Collections, Generics, Lambda, Streams, Methods, Exceptions
+- **Difficulty Level:** Beginner to Intermediate
+- **Language:** Java 8+
+
+---
+
+## 🎯 Recommended Learning Path
+
+1. Start with `Methods/` for foundational concepts
+2. Learn `CollectionFramework/` (Arrays → Lists → Sets → Maps → Queues)
+3. Explore `Java8/` features (Lambda → Streams → Functional Interfaces)
+4. Review `Exception/` handling patterns
+5. Practice combining all concepts in real-world scenarios
+
+---
+
+## 📌 Notes
+
+- All examples are self-contained and can run independently
+- Each file demonstrates a specific concept with clear implementations
+- Comments and variable names are descriptive for learning purposes
+- Output examples and expected behavior are included in many classes
+
+---
+
+## 📄 License
+
+Educational use. Feel free to modify and learn from this project.
+
+---
+
+## 👨‍💻 Author
+
+Created as a comprehensive learning resource for Java Collections Framework and modern Java features
 │   ├── Method.java            # Method without params & return type
 │   ├── Method_2.java          # Method with return type
 │   ├── Method_3.java          # Method with params & return type
