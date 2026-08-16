@@ -1,6 +1,6 @@
 # 🔧 Methods in Java
 
-**A comprehensive guide to understanding method concepts in Java through 13 progressive examples.**
+**A comprehensive guide to understanding method concepts in Java through 15 progressive examples.**
 
 ---
 
@@ -49,15 +49,17 @@ A method is a reusable block of code that performs a specific task. Methods help
 | **Method_7.java** | Static (class) variables | Shared across all objects of the class |
 | **Method_8.java** | Static block execution order | Timing of static blocks vs. main method |
 
-### Advanced Concepts (Method_9.java → Method_13.java)
+### Advanced Concepts (Method_9.java → Method_15.java)
 
 | File | Concept | Key Learning |
-|------|---------|--------------|
+|------|---------|---------------|
 | **Method_9.java** | Advanced method patterns | Complex method behavior |
 | **Method_10.java** | Practical method examples | Real-world use cases |
 | **Method_11.java** | Method overloading | Same method name, different signatures |
 | **Method_12.java** | Method interactions | Methods calling other methods |
 | **Method_13.java** | Advanced scenarios | Complex interactions and patterns |
+| **Method_14.java** | Extended examples | Additional advanced patterns |
+| **Method_15.java** | Complex implementations | Sophisticated method usage patterns |
 
 ---
 
