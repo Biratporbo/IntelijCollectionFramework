@@ -113,6 +113,7 @@ src/
 │   ├── Method_13.java         # Advanced scenarios & real-world usage
 │   ├── Method_14.java         # Extended method examples
 │   ├── Method_15.java         # Complex method implementations
+│   ├── Method_16.java         # Advanced method patterns
 │   └── README.md
 ├── StreamsAPI/                # Streams API examples
 │   ├── Create1.java
