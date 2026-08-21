@@ -1,6 +1,6 @@
 # 🔧 Methods in Java
 
-**A comprehensive guide to understanding method concepts in Java through 16 progressive examples.**
+**A comprehensive guide to understanding method concepts in Java through 18 progressive examples.**
 
 ---
 
@@ -61,6 +61,8 @@ A method is a reusable block of code that performs a specific task. Methods help
 | **Method_14.java** | Extended examples | Additional advanced patterns |
 | **Method_15.java** | Complex implementations | Sophisticated method usage patterns |
 | **Method_16.java** | Advanced patterns | Specialized method techniques |
+| **Method_17.java** | Array parameter passing | 2D arrays in methods (Matrix addition) |
+| **Method_18.java** | Prime number generation | Practical method application (Prime series) |
 
 ---
 
@@ -138,6 +140,11 @@ java -cp src Methods.Method_10
 java -cp src Methods.Method_11
 java -cp src Methods.Method_12
 java -cp src Methods.Method_13
+java -cp src Methods.Method_14
+java -cp src Methods.Method_15
+java -cp src Methods.Method_16
+java -cp src Methods.Method_17
+java -cp src Methods.Method_18
 ```
 
 ---
