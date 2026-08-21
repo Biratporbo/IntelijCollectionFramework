@@ -11,12 +11,11 @@
 
 ## 📝 Project Overview
 
-Intellij Collection Framework is a comprehensive Java project designed to help developers master the Collections Framework, core Java fundamentals, generics, lambda expressions, and streams API. The project provides practical examples and implementations of collection types, methods, functional programming concepts, and modern Java 8+ features to strengthen Java development skills.
+Intellij Collection Framework is a comprehensive Java project designed to help developers master the Collections Framework, advanced generics, lambda expressions, and streams API. The project provides practical examples and implementations of all major collection types, functional programming concepts, and modern Java 8+ features to streamline Java development skills.
 
 ## ✨ Key Features & Architecture
 
 * **Collections Management:** Comprehensive implementation of Lists, Sets, Maps, and Queues with detailed examples.
-* **Methods & OOP Basics:** Learn how methods work, including parameter passing, return values, and static methods.
 * **Generics Deep Dive:** Understand generic classes, methods, and type parameters with real-world implementations.
 * **Lambda Expressions:** Master functional programming with lambda expressions and method references.
 * **Streams API:** Learn powerful data transformation and filtering operations using streams.
@@ -97,24 +96,6 @@ src/
 │   │   └── [10 comprehensive examples]
 │   └── work/
 │       └── StreamObject.java
-├── Methods/                   # Basic Java method examples
-│   ├── Method.java            # Method without params & return type
-│   ├── Method_2.java          # Method with return type
-│   ├── Method_3.java          # Method with params & return type
-│   ├── Method_4.java          # Static method
-│   ├── Method_5.java          # Static method accessing static variable
-│   ├── Method_6.java          # Instance variable behavior
-│   ├── Method_7.java          # Static (class) variable behavior
-│   ├── Method_8.java          # Static block vs. static method
-│   ├── Method_9.java          # Advanced method concepts
-│   ├── Method_10.java         # Additional practical method examples
-│   ├── Method_11.java         # Method overloading concepts
-│   ├── Method_12.java         # Method interactions & patterns
-│   ├── Method_13.java         # Advanced scenarios & real-world usage
-│   ├── Method_14.java         # Extended method examples
-│   ├── Method_15.java         # Complex method implementations
-│   ├── Method_16.java         # Advanced method patterns
-│   └── README.md
 ├── StreamsAPI/                # Streams API examples
 │   ├── Create1.java
 │   ├── Create2.java
@@ -137,7 +118,6 @@ src/
 | Module | Description |
 | :--- | :--- |
 | **Collections Framework** | Complete implementation of List, Set, Map, and Queue data structures |
-| **Methods** | Basic examples of methods, static methods, static blocks, and instance vs. class variables |
 | **Generics** | Generic classes, methods, and type parameter handling |
 | **Lambda Expressions** | 10+ practical examples of lambda syntax and usage |
 | **Streams API** | Data transformation, filtering, mapping, and reduction operations |
@@ -197,11 +177,6 @@ src/
 ✅ HashSet, LinkedHashSet, TreeSet
 ✅ HashMap, LinkedHashMap, TreeMap
 ✅ Queue, Deque, PriorityQueue
-✅ Basic Java Methods
-✅ Methods with Parameters and Return Types
-✅ Static Methods
-✅ Static Blocks & Execution Order
-✅ Instance vs. Class (Static) Variables
 ✅ Generic Classes & Methods
 ✅ Wildcards & Type Parameters
 ✅ Lambda Expressions (Syntax & Usage)
@@ -222,12 +197,6 @@ src/
 ```bash
 javac -d . src/CollectionFramework/List/ArrayListCreate.java
 java CollectionFramework.List.ArrayListCreate
-```
-
-**Running Methods Example:**
-```bash
-javac -d . src/Methods/Method_4.java
-java Methods.Method_4
 ```
 
 **Running Lambda Expressions:**
@@ -266,6 +235,5 @@ This project is part of an educational portfolio and is provided as-is for learn
 
 ---
 
-❤️ Created for Java Learning & Development 
+❤️ Created for Java Learning & Development
 
-🫱🫲 I, Me, and Myself !! 
